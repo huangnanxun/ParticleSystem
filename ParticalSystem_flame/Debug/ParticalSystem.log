@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Programming\Coding\3D_ani\ParticalSystem_flame\main.cpp(42,19): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Programming\Coding\3D_ani\ParticalSystem_flame\main.cpp(58,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Programming\Coding\3D_ani\ParticalSystem_flame\main.cpp(134,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\Programming\Coding\3D_ani\ParticalSystem_flame\main.cpp(136,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\Programming\Coding\3D_ani\ParticalSystem_flame\main.cpp(137,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\Programming\Coding\3D_ani\ParticalSystem_flame\main.cpp(144,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\Programming\Coding\3D_ani\ParticalSystem_flame\main.cpp(146,43): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\Programming\Coding\3D_ani\ParticalSystem_flame\main.cpp(147,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  ParticalSystem.vcxproj -> D:\Programming\Coding\3D_ani\ParticalSystem_flame\Debug\ParticalSystem.exe
